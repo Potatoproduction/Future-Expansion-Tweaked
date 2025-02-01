@@ -245,7 +245,9 @@
 				"name": "Mobile Tactics",
 				"row": 4,
 				"prerequisites": [
-					"Nuclear Fission"
+					"Nuclear Fission",
+					"Advanced Ballistics",
+					"Urbanization"
 				],
 				"quote": "'All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.' - Sun Tzu"
 			},
@@ -290,7 +292,9 @@
 				"name": "Nanotechnology",
 				"row": 4,
 				"prerequisites": [
-					"Mobile Tactics"
+					"Mobile Tactics",
+					"Genetics"
+					
 				],
 				"quote": "'Nanotechnology will let us build computers that are incredibly powerful. We'll have more power in the volume of a sugar cube than exists in the entire world today.' - Ralph Merkle"
 			},
